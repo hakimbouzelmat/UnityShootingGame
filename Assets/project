@@ -1,0 +1,4 @@
+Scenes/         → Main.unity (TA scène maître) + Scenes/Tests/
+Scripts/        → Weapon/ (B)  Targets/ (C)  Score/ (D)
+Prefabs/        → Weapon/ (B)  Targets/ (C)  Score/ (D)
+Art/            → sons, particules (D)
